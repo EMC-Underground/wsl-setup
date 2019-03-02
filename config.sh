@@ -12,6 +12,6 @@ source ./hacking/env-setup
 sudo pip install -r ./requirements.txt
 # add branch change below
 # change to the brocade-bsn branch to use brocade dev code
-git checkout brocade_bsn
+git checkout broadcom_bsn
 # check the current branch
 git branch
